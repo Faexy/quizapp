@@ -144,9 +144,7 @@ main{
         max-width: 1160px;
         margin-inline: auto;
     }
-    section{
-        width: 100%;
-    }
+
     .boas_vindas h1{
         font-size: 64px;
         margin-bottom: 48px;
