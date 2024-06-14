@@ -136,9 +136,7 @@ main{
         background-repeat:no-repeat ;
         background-size:cover;  
     }
-    header{
-        margin-block: 81px;
-    }
+
     main{
         display: flex;
         max-width: 1160px;
