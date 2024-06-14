@@ -208,5 +208,9 @@ main button:hover{
         height: 56px;
         padding: 8px;
     }
-
+    main button{
+        font-size: 22px;
+        padding: 24px;
+        border-radius: 24px;
+    }
 }
