@@ -121,7 +121,9 @@ main{
     background:var(--bg-html);
 
 }
-
+.btn2 div{
+    background: var(--bg-css);
+}
 .btn3 div{
     background: var(--bg-js);
 }
