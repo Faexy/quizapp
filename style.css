@@ -167,7 +167,9 @@ main{
     .assuntos{
         gap: 24px;
     }
-
+    .tema{
+        gap: 16px;
+    }
     .tema img{
         width: 24px;
     }
