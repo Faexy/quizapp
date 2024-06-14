@@ -117,7 +117,10 @@ main{
     color: var(--primary-text-color);
     cursor: pointer;
 }
+.btn1 div{
+    background:var(--bg-html);
 
+}
 .btn2 div{
     background: var(--bg-css);
 }
