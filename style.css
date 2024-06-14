@@ -164,7 +164,9 @@ main{
         height: 56px;
         padding: 8px;
     }
-
+    .assuntos{
+        gap: 24px;
+    }
     .tema{
         gap: 16px;
     }
