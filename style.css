@@ -170,7 +170,9 @@ main{
     .tema{
         gap: 16px;
     }
-
+    .tema img{
+        width: 24px;
+    }
     .tema button{
         width: 48px;
         height: 28px;
